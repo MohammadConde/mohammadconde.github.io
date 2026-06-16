@@ -2117,7 +2117,7 @@ input, select, textarea {
 		border-radius: 3.75em;
 		padding: 0 2.5em;
 		text-overflow: ellipsis;
-		overflow: hidden;
+		overflow:visible;
 	}
 
 		input[type="submit"].icon:before,
@@ -3455,7 +3455,7 @@ input, select, textarea {
 		justify-content: flex-end;
 		position: relative;
 		text-align: left;
-		overflow-x: hidden;
+		overflow-x: visible;
 	}
 
 		.banner.style1 .content {
@@ -3658,7 +3658,7 @@ input, select, textarea {
 		background-color: inherit;
 		position: relative;
 		text-align: center;
-		overflow-x: hidden;
+		overflow-x: visible;
 	}
 
 		.banner.style2 .content {
@@ -3829,7 +3829,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		text-align: left;
-		overflow-x: hidden;
+		overflow-x: visible;
 	}
 
 		.banner.style3 .content {
@@ -4021,7 +4021,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		text-align: left;
-		overflow-x: hidden;
+		overflow-x: visible;
 	}
 
 		.banner.style4 .content {
@@ -4271,7 +4271,7 @@ input, select, textarea {
 		background-color: inherit;
 		position: relative;
 		text-align: center;
-		overflow-x: hidden;
+		overflow-x: visible;
 	}
 
 		.banner.style5 .content {
@@ -4856,7 +4856,7 @@ input, select, textarea {
 		-ms-justify-content: -ms-flex-end;
 		justify-content: flex-end;
 		position: relative;
-		overflow-x: hidden;
+		overflow-x: visible;
 		text-align: left;
 	}
 
@@ -5035,7 +5035,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		position: relative;
-		overflow-x: hidden;
+		overflow-x: visible;
 		text-align: left;
 	}
 
@@ -5223,7 +5223,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		position: relative;
-		overflow-x: hidden;
+		overflow-x: visible;
 		text-align: left;
 	}
 
@@ -5469,7 +5469,7 @@ input, select, textarea {
 		justify-content: center;
 		background-color: inherit;
 		position: relative;
-		overflow-x: hidden;
+		overflow-x: visible;
 		text-align: center;
 	}
 
@@ -5649,7 +5649,7 @@ input, select, textarea {
 		justify-content: center;
 		background-color: inherit;
 		position: relative;
-		overflow-x: hidden;
+		overflow-x: visible;
 		text-align: center;
 	}
 
@@ -6482,7 +6482,7 @@ input, select, textarea {
 		}
 
 		.gallery.style1 article {
-			overflow: hidden;
+			overflow: visible;
 			position: relative;
 			width: 25%;
 		}
@@ -6855,7 +6855,7 @@ input, select, textarea {
 		.gallery.style2 > .inner {
 			display: inherit;
 			overflow-x: auto;
-			overflow-y: hidden;
+			overflow-y: visible;
 			position: relative;
 			width: 100%;
 		}
@@ -6871,7 +6871,7 @@ input, select, textarea {
 			flex-shrink: 0;
 			display: block;
 			position: relative;
-			overflow: hidden;
+			overflow: visible;
 			width: 22.5rem;
 			max-width: 75vw;
 		}
@@ -8256,7 +8256,7 @@ input, select, textarea {
 	#wrapper {
 		background-color: inherit;
 		width: 100%;
-		overflow-x: hidden;
+		overflow-x: visible;
 	}
 
 		#wrapper > .invert {
